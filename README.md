@@ -5,7 +5,7 @@ Steps
 1. Connect to your Github space
 2. Create a new repository called EasyMapWebsite with the public and readme.md options checked.
 3. Setting>Pages>Build and deployment>Branch>main/(root)   --> save
-4. Upload DataForTP/Logo_IUT_SD_Carcassonne.jpg et ManausMap.html
+4. Upload Logo_IUT_SD_Carcassonne.jpg et ManausMap.html
 5. Créer un fichier _config.yml
     
         theme: jekyll-theme-minimal
